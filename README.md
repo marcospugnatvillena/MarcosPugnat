@@ -1,38 +1,38 @@
 <div align="center">
   <h1>Hi, I'm Marcos Pugnat 🖐️</h1>
-  <p>💻 Backend & Frontend Developer | 🧠 Learning Every Day | 🇪🇸 Spain</p>
+  <p>💻 Full Stack Developer | 🧠 Learning Every Day | 📍 Valencia, Spain</p>
 </div>
 
 ---
 
 ### 🎯 About Me
 
-I'm an enthusiastic developer dedicated to creating functional and optimized web solutions. I love the world of programming—and I haven't stopped learning since I started.
-I enjoy building beautiful, functional, and fast websites using HTML, CSS, JavaScript, and modern frameworks.
-Currently, I'm focused on improving my skills and eventually becoming a full-stack expert. I love helping others, sharing what I learn, and collaborating with teams.
+I consider myself a decisive person with an analytical mindset, the ability to work in a team, and good time management skills. I enjoy learning new technologies and taking on challenges that allow me to grow as a developer.
 
 ---
 
 ### 🧘 More About Me
 
-* 🔥 Passionate about technology and web development
-* 🧩 I love solving problems with code
-* 📚 Currently learning **Angular** and **Node.js**
-* 🎯 My goal: to become an expert full-stack developer
-* 💼 Working on personal projects and freelance
+* 🔥 **Passionate** about tech and full-stack development.
+* 🧩 **Problem Solver:** I love tackling complex coding challenges.
+* 📚 **Currently focused** on mastering modern frameworks and efficient database management.
+* 💼 **Professional Experience:** Background in IT management, web design, and web development.
 
 ---
 
-### 🚀 Technologies I Use
+### 🚀 Hard Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASTRO-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
 </p>
 
 ---
@@ -40,18 +40,18 @@ Currently, I'm focused on improving my skills and eventually becoming a full-sta
 ### 🎨 Web Portfolio
 
 <p align="center">
-  <img src="https://tu-enlace-a-una-imagen-de-tu-portfolio.png" alt="My Portfolio" width="100%" />
+  <img src="https://raw.githubusercontent.com/MarcosPugnat/MarcosPugnat/main/portfolio-preview.png" alt="My Portfolio Preview" width="100%" />
   <br>
-  <em>My portfolio built with Astro and Tailwind CSS</em>
+  <em>My portfolio built with modern web technologies</em>
 </p>
 
 ---
 
-### 📫 Contact
+### 📫 Contact & Languages
 
-* 📩 **tu-email@ejemplo.com**
-* 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-* 🌐 [Portfolio](https://tu-web-de-vercel.app)
+* 📧 **mfpv003contacto@gmail.com**
+* 💼 [LinkedIn](https://www.linkedin.com/in/marcos-pugnat-3315a0312/)
+* 🌍 **Languages:** Spanish (Native), French (Native), English (Advanced)
 
 ---
 <p align="center">
