@@ -50,7 +50,7 @@ I consider myself a decisive person with an analytical mindset, the ability to w
 ### 📫 Contact & Languages
 
 * 📧 **mfpv003contacto@gmail.com**
-* 💼 [LinkedIn](https://www.linkedin.com/in/marcos-pugnat-3315a0312/)
+* 💼 [LinkedIn]([https://www.linkedin.com/in/marcos-pugnat-3315a0312/](https://www.linkedin.com/in/marcos-pugnat-villena-a346613a8/))
 * 🌍 **Languages:** Spanish (Native), French (Native), English (Advanced)
 
 ---
