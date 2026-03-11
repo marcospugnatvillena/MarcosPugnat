@@ -40,7 +40,7 @@ I consider myself a decisive person with an analytical mindset, the ability to w
 ### 🎨 Web Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcosPugnat/MarcosPugnat/main/portfolio-preview.png" alt="My Portfolio Preview" width="100%" />
+  <img src="https://via.placeholder.com/800x400?text=My+Portfolio+Preview" alt="My Portfolio Preview" width="100%" />
   <br>
   <em>My portfolio built with modern web technologies</em>
 </p>
@@ -50,7 +50,7 @@ I consider myself a decisive person with an analytical mindset, the ability to w
 ### 📫 Contact & Languages
 
 * 📧 **mfpv003contacto@gmail.com**
-* 💼 [LinkedIn]([https://www.linkedin.com/in/marcos-pugnat-3315a0312/](https://www.linkedin.com/in/marcos-pugnat-villena-a346613a8/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/marcos-pugnat-villena-a346613a8/)
 * 🌍 **Languages:** Spanish (Native), French (Native), English (Advanced)
 
 ---
