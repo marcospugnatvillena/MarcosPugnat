@@ -1,38 +1,59 @@
-# ¡Hola 👋, soy Marcos Pugnat Villena!
+<div align="center">
+  <h1>Hi, I'm Marcos Pugnat 🖐️</h1>
+  <p>💻 Backend & Frontend Developer | 🧠 Learning Every Day | 🇪🇸 Spain</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcospugnatvillena&label=Profile%20views&color=0e75b6&style=flat" alt="Vistas de perfil" />
-</p>
+---
 
-## 👨‍💻 Sobre mí
+### 🎯 About Me
 
-<p>Soy un desarrollador apasionado por crear soluciones web innovadoras y eficientes.</p>
+I'm an enthusiastic developer dedicated to creating functional and optimized web solutions. I love the world of programming—and I haven't stopped learning since I started.
+I enjoy building beautiful, functional, and fast websites using HTML, CSS, JavaScript, and modern frameworks.
+Currently, I'm focused on improving my skills and eventually becoming a full-stack expert. I love helping others, sharing what I learn, and collaborating with teams.
 
-* 🔭 Actualmente trabajando en mi portafolio.
-* 🌱 Aprendiendo constantemente nuevas tecnologías.
-* 💬 Pregúntame sobre cualquier cosa relacionada con desarrollo web.
+---
 
-## 🛠️ Tecnologías que utilizo
+### 🧘 More About Me
+
+* 🔥 Passionate about technology and web development
+* 🧩 I love solving problems with code
+* 📚 Currently learning **Angular** and **Node.js**
+* 🎯 My goal: to become an expert full-stack developer
+* 💼 Working on personal projects and freelance
+
+---
+
+### 🚀 Technologies I Use
 
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  </p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASTRO-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+</p>
 
-## 🌐 Mi Portafolio Web
+---
 
-AQUÍ ES DONDE PONDRÁS EL ENLACE A TU PROYECTO. Por ejemplo:
+### 🎨 Web Portfolio
 
-**👉 [Ver mi portafolio en vivo](AQUÍ_VA_TU_ENLACE_DE_VERCEL_O_NETLIFY) 👈**
+<p align="center">
+  <img src="https://tu-enlace-a-una-imagen-de-tu-portfolio.png" alt="My Portfolio" width="100%" />
+  <br>
+  <em>My portfolio built with Astro and Tailwind CSS</em>
+</p>
+
+---
+
+### 📫 Contact
+
+* 📩 **tu-email@ejemplo.com**
+* 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+* 🌐 [Portfolio](https://tu-web-de-vercel.app)
 
 ---
 <p align="center">
-  Hecho por Marcos Pugnat Villena
+  "All you need is a computer and the will to learn."
 </p>
